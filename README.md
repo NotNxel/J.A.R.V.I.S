@@ -1,4 +1,4 @@
-# 🤖J.A.R.V.I.S
+# J.A.R.V.I.S
 
 J.A.R.V.I.S is your personalized AI assistant built in Python. Designed to be modular, fast, and customizable, J.A.R.V.I.S helps you interact with your computer like never before: through natural voice commands or typed input.
 
